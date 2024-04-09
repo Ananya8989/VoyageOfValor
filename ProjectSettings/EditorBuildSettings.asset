@@ -1,0 +1,35 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/BegEnter.unity
+    guid: 38cfd8aeb9c35194494e5de745078864
+  - enabled: 1
+    path: Assets/Scenes/CutSceneBeg1.unity
+    guid: 7a1ff3d71731f254aab972e8a730c60c
+  - enabled: 1
+    path: Assets/Scenes/Home Level Selection.unity
+    guid: c2cd061768e6b724cad0617665a7a992
+  - enabled: 1
+    path: Assets/Scenes/Level 1.unity
+    guid: f3afbda7d8a7dae43880676326c10922
+  - enabled: 1
+    path: Assets/Scenes/Level 2.unity
+    guid: 4175a6bdfbd21644bbeaa8e856fb0c8c
+  - enabled: 1
+    path: Assets/Scenes/Level 3.unity
+    guid: ba204bcd92aed064b82c2f5a6495784d
+  - enabled: 1
+    path: Assets/Scenes/Level 4.unity
+    guid: 9910657c59acc494b8ae25b7a3ee61ed
+  - enabled: 1
+    path: Assets/Scenes/Level 5.unity
+    guid: f4a8713762c664c41966d21057482865
+  - enabled: 1
+    path: Assets/Scenes/Infinite Level.unity
+    guid: 95f93ac99ea1f6e4cb9afffec4e13ccc
+  m_configObjects: {}
